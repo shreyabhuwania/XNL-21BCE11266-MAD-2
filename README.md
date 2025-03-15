@@ -104,12 +104,9 @@ Due to time constraints and my current skill level, advanced security methods (e
 
 ---
 
-💡 **Final Thoughts**  
-This project represents more than just meeting a task requirement — it’s a testament to my ability to learn quickly, adapt, and deliver functional results under time pressure. Though it lacks advanced security features, it reflects my potential to grow into a developer capable of tackling complex, real-world problems. I am proud of what I’ve achieved in such a short timeframe and excited to expand on this foundation.
+💡Final Thoughts 
+----
 
----
-
-💡 **Final Thoughts**
 This project represents more than just meeting a task requirement — it’s a testament to my ability to learn quickly, adapt, and deliver functional results under time pressure. Though it lacks advanced security features, it reflects my potential to grow into a developer capable of tackling complex, real-world problems. I am proud of what I’ve achieved in such a short timeframe and excited to expand on this foundation.
 
 ```bash
