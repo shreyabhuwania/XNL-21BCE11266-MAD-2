@@ -92,9 +92,21 @@ Due to time constraints and my current skill level, advanced security methods (e
 
 ---
 
-## 🎥 Demo Video
+## 🎥 App Demo 
 
-Unfortunately, due to time constraints, I couldn’t record a demo video. However, I’ve thoroughly detailed the implemented features, performance improvements, and UI/UX design. I’ve also outlined the security enhancements considered and my approach for future upgrades to ensure continuous improvement.
+![App Screenshot](https://drive.google.com/uc?export=view&id=1iLdvaChOS1FkoFCKkBBfaEp5bWIgf6nB)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1P2sKRhAC0MWpPEUzcRZUxYdXbpdkTBWB)
+![App Screenshot](https://drive.google.com/uc?export=view&id=16bVHX9VNYbPIgwJg_Mo89UlXXBf1RjAe)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1iukQap7gyGlEZr4IDjT1gzPU2WsmrU-8)
+![App Screenshot](https://drive.google.com/uc?export=view&id=10ltrU7P3f3pJEGegWOHq5GNEk_51yBON)
+![App Screenshot](https://drive.google.com/uc?export=view&id=12N31dosgoJa-biFu7heF4oC237n3r1Bf)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1EBh9diYmKXw5Mkqx1d5IUAk31uKkUpJK)
+
+---
+
+💡 **Final Thoughts**  
+This project represents more than just meeting a task requirement — it’s a testament to my ability to learn quickly, adapt, and deliver functional results under time pressure. Though it lacks advanced security features, it reflects my potential to grow into a developer capable of tackling complex, real-world problems. I am proud of what I’ve achieved in such a short timeframe and excited to expand on this foundation.
+
 ---
 
 💡 **Final Thoughts**
